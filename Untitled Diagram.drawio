@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T06:31:31.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.5" etag="R-eWtJZBNa6lzOH3TDfZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T10:18:22.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Xt0X4zpNZCFngiF8kGkS" version="21.3.5" type="github">
   <diagram name="Page-1" id="4AgdEguFSzUEG5FJViuU">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="94" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=14;rotation=90;fillColor=#6f0000;strokeColor=#6F0000;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1610.87" y="1365.39" width="78.12" height="1381.1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-3" value="智能合约开发最佳实践流程" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=14;align=center;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="1995.94" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1222" y="2160" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-109" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-108">
+          <mxGeometry width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-110" value="搭建 UI 界面" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-108">
+          <mxGeometry x="20" y="20" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-111" value="搭建 UI 界面" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-108">
+          <mxGeometry x="20" y="70" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-105" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="2160" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-105">
+          <mxGeometry width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-7" value="搭建基础的前端项目" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-105">
+          <mxGeometry x="20" y="20" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-9" value="搭建基础的前端项目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-105">
+          <mxGeometry x="20" y="70" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-113" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1490" y="2135" width="198" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-114" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-113">
+          <mxGeometry width="198" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-115" value="本地合约环境搭建" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-113">
+          <mxGeometry x="20" y="20" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-116" value="账号申请" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-113">
+          <mxGeometry x="20" y="70" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-117" value="搭建本地环境" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1511" y="2254" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-118" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1760" y="2160" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-119" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-118">
+          <mxGeometry width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-120" value="创建积分合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-118">
+          <mxGeometry x="20" y="20" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-121" value="铸造积分" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-118">
+          <mxGeometry x="20" y="70" width="155.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

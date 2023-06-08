@@ -1,107 +1,510 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T10:51:37.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zQLgACuvaQdNNOLVCFQs" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T03:19:36.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HXCuNM8E8vlsRb9BIPvl" version="21.3.5" type="github" pages="2">
   <diagram name="Page-1" id="4AgdEguFSzUEG5FJViuU">
     <mxGraphModel dx="860" dy="-129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=160.12;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=14;rotation=90;fillColor=#6f0000;strokeColor=#6F0000;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=160.12;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=14;rotation=90;fillColor=#6f0000;strokeColor=#6F0000;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1453.12" y="1389.12" width="304" height="1324" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-3" value="Miles&amp;amp;More星享计划" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=14;align=center;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-3" value="Miles&amp;amp;More星享计划" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=14;align=center;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="2080" y="1991.12" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-108" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-108" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1080" y="1911" width="198" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-109" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-108">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-109" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" parent="IGryYHBxyRyYG1CCyzQM-108" vertex="1">
           <mxGeometry y="-14" width="198" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-110" value="搭建 UI 界面" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-108">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-110" value="搭建 UI 界面" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" parent="IGryYHBxyRyYG1CCyzQM-108" vertex="1">
           <mxGeometry x="20" y="6" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-111" value="搭建 UI 界面" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-108">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-111" value="搭建 UI 界面" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="IGryYHBxyRyYG1CCyzQM-108" vertex="1">
           <mxGeometry x="20" y="56" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-105" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="982" y="2065" width="198" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-105">
-          <mxGeometry y="19" width="198" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-7" value="搭建基础的前端项目" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-105">
-          <mxGeometry x="20" y="39" width="155" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-9" value="搭建基础的前端项目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-105">
-          <mxGeometry x="20" y="89" width="155.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-113" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-113" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1205" y="2058" width="198" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-114" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-113">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-114" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" parent="IGryYHBxyRyYG1CCyzQM-113" vertex="1">
           <mxGeometry width="198" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-115" value="本地合约环境搭建" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-113">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-115" value="本地合约环境搭建" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" parent="IGryYHBxyRyYG1CCyzQM-113" vertex="1">
           <mxGeometry x="20" y="20" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-116" value="账号申请" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-113">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-116" value="账号申请" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="IGryYHBxyRyYG1CCyzQM-113" vertex="1">
           <mxGeometry x="20" y="70" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-117" value="搭建本地环境" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-117" value="搭建本地环境" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1226" y="2177" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-118" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;container=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-118" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1330" y="1897" width="198" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-123" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-123" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1456" y="2058" width="198" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-124" value="创建机票合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-124" value="创建机票合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1476" y="2078" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-125" value="创建机票" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-125" value="创建机票" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1476" y="2130" width="155.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-126" value="实现机票购买" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-126" value="实现机票购买" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1475.5" y="2177" width="155.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-131" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-131" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1590" y="1900" width="198" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-132" value="创建优惠券合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-132" value="创建优惠券合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1610" y="1922" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-133" value="实现消耗积分兑换优惠券" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-133" value="实现消耗积分兑换优惠券" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1610" y="1973" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-134" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-134" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1720" y="2060" width="198" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-135" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-134">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-135" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" parent="IGryYHBxyRyYG1CCyzQM-134" vertex="1">
           <mxGeometry y="23" width="198" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-136" value="创建服务窗口合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-134">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-136" value="创建服务窗口合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" parent="IGryYHBxyRyYG1CCyzQM-134" vertex="1">
           <mxGeometry x="20" y="42" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-137" value="创建服务窗口合约" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="IGryYHBxyRyYG1CCyzQM-134">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-137" value="创建服务窗口合约" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="IGryYHBxyRyYG1CCyzQM-134" vertex="1">
           <mxGeometry x="20" y="92" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-138" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;container=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-138" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1850" y="1880" width="198" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-140" value="实现机票购买和积分兑换优惠券" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-140" value="实现机票购买和积分兑换优惠券" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1870" y="1898" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-141" value="实现积分兑换优惠券" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-141" value="实现积分兑换优惠券" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1870" y="1990" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-142" value="实现机票购买" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-142" value="实现机票购买" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1871.25" y="1945" width="155.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-120" value="创建积分合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-120" value="创建积分合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1350" y="1915" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGryYHBxyRyYG1CCyzQM-121" value="铸造积分" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-121" value="铸造积分" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="1350" y="1965" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGryYHBxyRyYG1CCyzQM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="990" y="2449.9976923076924" width="1290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VaIQZQ3X9ZXWvWSkWKLM-2" value="&lt;div&gt;智能合约开发工程师&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1046.25" y="2500" width="158.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaIQZQ3X9ZXWvWSkWKLM-3" value="&lt;div&gt;安全研发工程师&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="2500" width="158.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaIQZQ3X9ZXWvWSkWKLM-4" value="&lt;div&gt;区块链测试工程师&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1403" y="2500" width="158.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaIQZQ3X9ZXWvWSkWKLM-5" value="&lt;div&gt;区块链运维工程师&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="2500" width="158.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaIQZQ3X9ZXWvWSkWKLM-6" value="&lt;div&gt;区块链&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1757.12" y="2500" width="158.75" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YVX2ofKzWuRWmKJ60byQ" name="Page-2">
+    <mxGraphModel dx="860" dy="-129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vzu_cssGYt95VgziArCP-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=160.12;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=14;rotation=90;fillColor=#6f0000;strokeColor=#6F0000;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1453.12" y="1389.12" width="304" height="1324" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-2" value="Miles&amp;amp;More星享计划" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=14;align=center;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1991.12" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1080" y="1911" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-4" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-3">
+          <mxGeometry y="-14" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-5" value="搭建 UI 界面" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-3">
+          <mxGeometry x="20" y="6" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-6" value="搭建 UI 界面" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="Vzu_cssGYt95VgziArCP-3">
+          <mxGeometry x="20" y="56" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="982" y="2065" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-7">
+          <mxGeometry y="19" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-9" value="搭建基础的前端项目" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-7">
+          <mxGeometry x="20" y="39" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-10" value="搭建基础的前端项目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="Vzu_cssGYt95VgziArCP-7">
+          <mxGeometry x="20" y="89" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-11" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1205" y="2058" width="198" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-11">
+          <mxGeometry width="198" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-13" value="本地合约环境搭建" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-11">
+          <mxGeometry x="20" y="20" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-14" value="账号申请" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="Vzu_cssGYt95VgziArCP-11">
+          <mxGeometry x="20" y="70" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-15" value="搭建本地环境" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="2177" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-16" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1330" y="1897" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-17" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1456" y="2058" width="198" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-18" value="创建机票合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1476" y="2078" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-19" value="创建机票" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1476" y="2130" width="155.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-20" value="实现机票购买" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1475.5" y="2177" width="155.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-21" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1900" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-22" value="创建优惠券合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1922" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-23" value="实现消耗积分兑换优惠券" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1973" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1720" y="2060" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-25" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-24">
+          <mxGeometry y="23" width="198" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-26" value="创建服务窗口合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontStyle=1" vertex="1" parent="Vzu_cssGYt95VgziArCP-24">
+          <mxGeometry x="20" y="42" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-27" value="创建服务窗口合约" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="Vzu_cssGYt95VgziArCP-24">
+          <mxGeometry x="20" y="92" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-28" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1850" y="1880" width="198" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-29" value="实现机票购买和积分兑换优惠券" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1898" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-30" value="实现积分兑换优惠券" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1990" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-31" value="实现机票购买" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1871.25" y="1945" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-32" value="创建积分合约" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1915" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-33" value="铸造积分" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#23445d;strokeWidth=1;fillColor=#bac8d3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1965" width="155.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-36" value="搭建基础的前端项目" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-37" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1030" y="2690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-38" value="搭建 UI 界面" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-39" value="本地合约环境搭建" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-40" value="创建积分合约" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2641" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-41" value="创建机票合约" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2731" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-42" value="创建优惠券合约" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2821" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-43" value="创建服务窗口合约" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2911" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-44" value="实现机票购买和积分兑换优惠券" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1205" y="3030" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-48" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-39">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1130" y="2520" as="sourcePoint" />
+            <mxPoint x="1230" y="2520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-50" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-38">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1010" y="2602" as="sourcePoint" />
+            <mxPoint x="1177" y="2480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-51" target="Vzu_cssGYt95VgziArCP-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-51" value="搭建nodejs环境" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-53" target="Vzu_cssGYt95VgziArCP-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-53" value="搭建Next.js环境" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-55" target="Vzu_cssGYt95VgziArCP-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-55" value="引用wagmi组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-57" value="引用RainbowKit组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-60" value="使用Ant Design搭建UI界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-66" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1050" y="2553" as="sourcePoint" />
+            <mxPoint x="1205" y="2340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-67" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-40">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1060" y="2650" as="sourcePoint" />
+            <mxPoint x="1215" y="2525" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-68" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-41">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1060" y="2650" as="sourcePoint" />
+            <mxPoint x="1215" y="2615" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-69" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-42">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1050" y="2690" as="sourcePoint" />
+            <mxPoint x="1205" y="2745" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-70" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-43">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1060" y="2650" as="sourcePoint" />
+            <mxPoint x="1215" y="2795" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-71" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-37" target="Vzu_cssGYt95VgziArCP-44">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1060" y="2650" as="sourcePoint" />
+            <mxPoint x="1215" y="2885" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-73" target="Vzu_cssGYt95VgziArCP-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-73" value="申请Metamask账号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-75" target="Vzu_cssGYt95VgziArCP-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-75" value="申请测试用原生币" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-77" value="申请RPC账号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-80" value="根据hardhat tutorial使用vscode实现hardhat脚手架搭建。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-88" target="Vzu_cssGYt95VgziArCP-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-88" value="控制总供应量的上限10w" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-90" target="Vzu_cssGYt95VgziArCP-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-90" value="控制积分铸造权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-92" value="购买机票时将发放相应积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-95" target="Vzu_cssGYt95VgziArCP-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-95" value="申请NFT_STORAGE服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-97" target="Vzu_cssGYt95VgziArCP-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-97" value="将机票图片保存至IPFS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-99" target="Vzu_cssGYt95VgziArCP-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-99" value="把IPFS上的元数据保存到本地" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-100" value="使用ERC721标准实现机票合约" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-102" target="Vzu_cssGYt95VgziArCP-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-102" value="将机票图片保存至IPFS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-104" target="Vzu_cssGYt95VgziArCP-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-104" value="把IPFS上的元数据保存到本地" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-106" target="Vzu_cssGYt95VgziArCP-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-106" value="创建优惠券合约" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-107" value="兑换优惠券同时相应扣减用户积分数量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" target="Vzu_cssGYt95VgziArCP-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1860" y="2676" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-109" value="编写单元测试脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" target="Vzu_cssGYt95VgziArCP-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="2676" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-111" value="发布上链并开源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2060" y="2646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" target="Vzu_cssGYt95VgziArCP-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="2766" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-113" value="编写单元测试脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2060" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" target="Vzu_cssGYt95VgziArCP-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="2766" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-115" value="发布上链并开源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2220" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" target="Vzu_cssGYt95VgziArCP-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="2856" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-117" value="编写单元测试脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2060" y="2826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" target="Vzu_cssGYt95VgziArCP-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="2856" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-119" value="发布上链并开源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2220" y="2826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-121" target="Vzu_cssGYt95VgziArCP-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-121" value="指明积分合约地址、机票地址以及购买一张机票可以获取多少积分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-123" target="Vzu_cssGYt95VgziArCP-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-123" value="指定只能使用原生币购买机票，同时返还积分给用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="2916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-125" target="Vzu_cssGYt95VgziArCP-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-125" value="编写单元测试脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-126" value="发布上链并开源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="2916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-132" target="Vzu_cssGYt95VgziArCP-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-132" value="与服务窗口合约，钱包等进行交互" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-134" target="Vzu_cssGYt95VgziArCP-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-134" value="解决异步渲染问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-135" value="读取机票价格以及剩余机票数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-138" target="Vzu_cssGYt95VgziArCP-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-138" value="与链上的积分合约，钱包等进行交互" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="3065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1" source="Vzu_cssGYt95VgziArCP-140" target="Vzu_cssGYt95VgziArCP-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-140" value="读取用户积分数、用户优惠券数量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="3065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-141" value="显示优惠券" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1740" y="3065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-143" value="显示机票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1900" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vzu_cssGYt95VgziArCP-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=12;fontStyle=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1860" y="3029.5" as="sourcePoint" />
+            <mxPoint x="1900" y="3029.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

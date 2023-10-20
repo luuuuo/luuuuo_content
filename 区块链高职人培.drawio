@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T01:25:13.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zOZ57lz8w850mQGIVR7f" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T01:33:13.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QjfxTzzL4io6x5PppoRw" version="22.0.5" type="github">
   <diagram name="第 1 页" id="WQdMZFt6NxUerbQakmH6">
-    <mxGraphModel dx="2263" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,16 +164,16 @@
           <mxGeometry x="721" y="447" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-129" value="&lt;div&gt;区块链安全&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="469" width="109" height="120" as="geometry" />
+          <mxGeometry x="721" y="469" width="109" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-131" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链金融&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="589" width="109" height="120" as="geometry" />
+          <mxGeometry x="721" y="565" width="109" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-132" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链与数字藏品&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="709" width="109" height="120" as="geometry" />
+          <mxGeometry x="721" y="661" width="109" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-133" value="区块链监管" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="829" width="109" height="120" as="geometry" />
+          <mxGeometry x="721" y="757" width="109" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-134" value="顶岗实习" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-240" y="372" width="1070" height="20" as="geometry" />
@@ -231,6 +231,9 @@
             <mxPoint x="0.52" y="448" as="sourcePoint" />
             <mxPoint x="0.52" y="418" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-148" value="区块链与元宇宙" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="721" y="853" width="109" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

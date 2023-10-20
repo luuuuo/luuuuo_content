@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T01:33:13.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QjfxTzzL4io6x5PppoRw" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T03:57:59.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g5E_myYtJKcJj2C46HPt" version="22.0.5" type="github">
   <diagram name="第 1 页" id="WQdMZFt6NxUerbQakmH6">
-    <mxGraphModel dx="1669" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,30 +9,6 @@
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;平台基础课&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#FFFFFF;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
           <mxGeometry y="-1" width="960" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-3" value="&lt;div&gt;数学类基础课程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链导论&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="120" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;程序设计&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-6" value="&lt;div&gt;计算机网络&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-7" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Linux操作系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="480" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-8" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;数据结构与算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="600" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-9" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;数据库技术及应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="720" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-10" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;密码学&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-41">
-          <mxGeometry x="840" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-46" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-240" y="601" width="960" height="220" as="geometry" />
@@ -49,20 +25,17 @@
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-13" value="区块链应用开发岗位群（必选）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="6" y="20" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-14" value="&lt;div&gt;WEB开发基础&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-14" value="&lt;div&gt;区块链前端设计与开发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="16" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-17" value="&lt;div&gt;联盟链应用开发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-17" value="&lt;div&gt;Golang/Java程序设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="136" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-21" value="&lt;div&gt;Python程序设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-21" value="&lt;div&gt;数据挖掘与分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="16" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-22" value="&lt;div&gt;数据挖掘与分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-22" value="&lt;div&gt;EOS应用开发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="136" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-23" value="&lt;div&gt;Golang/Java程序设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
-          <mxGeometry x="70" y="160" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-24" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#FFFFFF;fontStyle=1;opacity=50;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="340" y="20" width="280" height="200" as="geometry" />
@@ -82,7 +55,7 @@
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-32" value="区块链运维测试岗位群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#000000;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="686" y="20" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-35" value="&lt;div&gt;容器技术&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-35" value="&lt;div&gt;虚拟化及容器技术&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="700" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-36" value="&lt;div&gt;区块链应用测试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
@@ -99,6 +72,12 @@
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-40" value="&lt;div&gt;分布式系统原理与应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
           <mxGeometry x="410" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-163" value="&lt;div&gt;区块链核心技术&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+          <mxGeometry x="16" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-164" value="&lt;div&gt;Python程序设计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-46">
+          <mxGeometry x="136" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-51" value="" style="group;dashed=1;dashPattern=8 8;strokeWidth=0;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-100" y="820" width="690" height="30" as="geometry" />
@@ -133,7 +112,7 @@
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-94" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实践课&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;fontFamily=Comic Sans MS;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
           <mxGeometry width="481" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-95" value="&lt;div&gt;区块链行业应用开发实践&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-95" value="&lt;div&gt;区块链行业应用开发&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
           <mxGeometry y="21" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-96" value="联盟链开发实践" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
@@ -142,7 +121,7 @@
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-97" value="DApp应用开发实践" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
           <mxGeometry x="240" y="21" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-98" value="&lt;div&gt;区块链运维实践&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-98" value="&lt;div&gt;区块链部署与运维&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;container=0;" vertex="1" parent="ZOFUwKBmkfHkIxBkDhFz-103">
           <mxGeometry x="360" y="21" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-110" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -160,20 +139,23 @@
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-122" value="" style="group;dashed=1;dashPattern=8 8;strokeWidth=0;strokeColor=default;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry y="540" width="690" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOFUwKBmkfHkIxBkDhFz-128" target="ZOFUwKBmkfHkIxBkDhFz-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-128" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;专业选修课&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e51400;strokeColor=#B20000;fontFamily=Comic Sans MS;fontStyle=1;container=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="721" y="447" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-129" value="&lt;div&gt;区块链安全&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="469" width="109" height="96" as="geometry" />
+          <mxGeometry x="721" y="469" width="109" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-131" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链金融&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="565" width="109" height="96" as="geometry" />
+          <mxGeometry x="722" y="578" width="109" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-132" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链与数字藏品&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="661" width="109" height="96" as="geometry" />
+          <mxGeometry x="722" y="687" width="109" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-133" value="区块链监管" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="757" width="109" height="96" as="geometry" />
+          <mxGeometry x="722" y="795.5" width="109" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-134" value="顶岗实习" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-240" y="372" width="1070" height="20" as="geometry" />
@@ -233,7 +215,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-148" value="区块链与元宇宙" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="853" width="109" height="96" as="geometry" />
+          <mxGeometry x="722" y="901.5" width="109" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-4" value="数学类基础课程" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-240" y="886" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-153" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链导论&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-48" y="887" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-154" value="程序设计" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="144" y="886.5" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-155" value="计算机网络" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="336" y="887.5" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-156" value="Linux操作系统" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="529" y="887.5" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-157" value="数据结构与算法" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-240" y="947.5" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-158" value="数据库技术及应用" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1" y="947.5" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-161" value="密码学" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="241" y="947.5" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-162" value="WEB开发基础" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="482" y="947.5" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

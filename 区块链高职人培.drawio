@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T00:55:43.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="weuvCYhTVC4P7uQf4NuC" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T01:20:44.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ze-GLLJ5xD-pcgMzge_V" version="22.0.5" type="github">
   <diagram name="第 1 页" id="WQdMZFt6NxUerbQakmH6">
     <mxGraphModel dx="2184" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,10 +191,16 @@
           <mxGeometry x="721" y="447" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-129" value="&lt;div&gt;区块链安全&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="469" width="109" height="231" as="geometry" />
+          <mxGeometry x="721" y="469" width="109" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZOFUwKBmkfHkIxBkDhFz-131" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链金融&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="700" width="109" height="248" as="geometry" />
+          <mxGeometry x="721" y="589" width="109" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-132" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区块链与数字藏品&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="721" y="709" width="109" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOFUwKBmkfHkIxBkDhFz-133" value="区块链监管" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="721" y="829" width="109" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

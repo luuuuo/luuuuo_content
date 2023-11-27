@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T13:57:21.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VB3m_gZQEeeac4F1g1C8" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T13:58:54.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KjLfHULiDw_dppVpDgJT" version="22.1.4" type="github">
   <diagram name="第 1 页" id="0ZIzqDiL9UeCE-KhGRlb">
     <mxGraphModel dx="1845" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,14 +99,23 @@
         <mxCell id="4bF4UTiQgVaSlPgRGFX1-1" value="01.从&lt;font color=&quot;#ff0000&quot;&gt;新职业标准、职业定义&lt;/font&gt;等&lt;font color=&quot;#ff0000&quot;&gt;枚举&lt;/font&gt;区块链核心工作岗位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="610" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-2" target="4bF4UTiQgVaSlPgRGFX1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4bF4UTiQgVaSlPgRGFX1-2" value="&lt;div&gt;02.从招聘网站爬取区块链&lt;font color=&quot;#ff0000&quot;&gt;岗位招聘&lt;/font&gt;信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25.5" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-3" target="4bF4UTiQgVaSlPgRGFX1-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4bF4UTiQgVaSlPgRGFX1-3" value="&lt;div&gt;03.分析岗位招聘信息梳理每个&lt;font color=&quot;#ff0000&quot;&gt;岗位工作任务&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25.5" y="440" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-4" target="4bF4UTiQgVaSlPgRGFX1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4bF4UTiQgVaSlPgRGFX1-4" value="&lt;div&gt;04.推导每个岗位&lt;font color=&quot;#ff0000&quot;&gt;典型工作任务&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="25.5" y="524.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="25.5" y="524.5" width="160" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="4bF4UTiQgVaSlPgRGFX1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-5" target="4bF4UTiQgVaSlPgRGFX1-6">
           <mxGeometry relative="1" as="geometry">

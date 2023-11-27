@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T14:02:46.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WEtNDMHc5U6Zg0ApUjPo" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T14:14:29.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="F8E2r9-_IjAeQE1sG07i" version="22.1.4" type="github">
   <diagram name="第 1 页" id="0ZIzqDiL9UeCE-KhGRlb">
-    <mxGraphModel dx="1845" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,62 @@
         </mxCell>
         <mxCell id="4bF4UTiQgVaSlPgRGFX1-8" value="&lt;div&gt;07&lt;span style=&quot;background-color: initial;&quot;&gt;.对照&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;国家职业教育教学标准体系&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="400" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-20" target="4bF4UTiQgVaSlPgRGFX1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-20" value="01.从&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;岗位招聘信息&lt;/font&gt;中梳理出适合本科的工作岗位（学历要求、岗位要求）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="938.25" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-22" target="4bF4UTiQgVaSlPgRGFX1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-22" value="&lt;div&gt;02.分析岗位招聘信息&lt;font color=&quot;#ff0000&quot;&gt;提炼胜任岗位的知识、技术要求&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="938.25" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-24" target="4bF4UTiQgVaSlPgRGFX1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-24" value="&lt;div&gt;03.1.提炼岗位知识、技术要求形成&lt;font color=&quot;#ff0000&quot;&gt;知识单元&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="938.25" y="510" width="160" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-26" target="4bF4UTiQgVaSlPgRGFX1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-26" value="&lt;div&gt;04.1.&lt;font color=&quot;#ff0000&quot;&gt;归并知识单元&lt;/font&gt;形成知识领域，推导出课程名称&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="938.25" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-27" value="&lt;div&gt;05.形成&lt;font color=&quot;#ff0000&quot;&gt;区块链工程（310212）专业课程体系&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="938.25" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#1A1A1A;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-29" target="4bF4UTiQgVaSlPgRGFX1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-29" value="&lt;div&gt;03.3.从&lt;font color=&quot;#ff0000&quot;&gt;本科院校人培方案&lt;/font&gt;中提取相关课程梳理知识单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1140" y="507.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-31" target="4bF4UTiQgVaSlPgRGFX1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-31" value="&lt;div&gt;04.3&lt;span style=&quot;background-color: initial;&quot;&gt;.对照&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;国家职业教育教学标准体系&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1140" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-35" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#1A1A1A;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1018" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-34" value="&lt;div&gt;03.2.依据《&lt;font color=&quot;#ff3333&quot;&gt;区块链技术人才培养标准&lt;/font&gt;》梳理知识单元&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="160" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-37" value="&lt;div&gt;04.2&lt;span style=&quot;background-color: initial;&quot;&gt;.对照&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ff0000&quot;&gt;工信部《区块链和分布式记账技术标准体系建设指南》&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bF4UTiQgVaSlPgRGFX1-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4bF4UTiQgVaSlPgRGFX1-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1163" y="680" as="sourcePoint" />
+            <mxPoint x="1018" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

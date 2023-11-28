@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T03:06:25.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uWDRxTJ26MboNblL8w1t" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T03:13:53.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0eMG8LyXiSMxUd5SGlyv" version="22.1.4" type="github">
   <diagram name="第 1 页" id="Bz7HMWfo7BPF0edmAM4z">
     <mxGraphModel dx="1687" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VWTRXh17PuX6DymBPsvB-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="395" y="230" width="130" height="150" as="geometry" />
+          <mxGeometry x="400" y="220" width="130" height="170" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="130" height="150" as="geometry" />
@@ -26,25 +26,34 @@
           <mxGeometry x="565" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-6" value="普通教育" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="590" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="595" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-7" value="职业教育" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="435" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-8" value="中专" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWTRXh17PuX6DymBPsvB-9" value="专科（三年）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="400" y="306" width="120" height="60" as="geometry" />
+        <mxCell id="VWTRXh17PuX6DymBPsvB-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="405" y="295" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-11" value="职业本科（新）（四年）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="400" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-13" value="研究型本科（一本）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="565" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWTRXh17PuX6DymBPsvB-12" value="应用型本科（二三本）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="565" y="306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VWTRXh17PuX6DymBPsvB-17" value="高等职业学校" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWTRXh17PuX6DymBPsvB-18" value="高等专科学校" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWTRXh17PuX6DymBPsvB-19" value="专科（三年）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

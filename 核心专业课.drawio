@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T01:40:39.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="o_rZVXF1NvpIu0WPV_W3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T01:50:05.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="e0dkczfZa4VqVZM79xuO" version="22.1.11" type="github">
   <diagram name="第 1 页" id="D1TzzIXAI3c-7DYu6P_8">
-    <mxGraphModel>
+    <mxGraphModel dx="590" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Saep0hxBm3rdNTJurB6--1" value="概要设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Saep0hxBm3rdNTJurB6--2" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Saep0hxBm3rdNTJurB6--3" value="编码与实现&lt;br&gt;《超级帐本技术》、《DAPP应用开发》、《智能合约技术与开发》&lt;br&gt;《EOS应用开发》、《FISCO BCOS技术》、《分布式系统与应用》、《数据挖掘与分析》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Saep0hxBm3rdNTJurB6--4" value="联调测试&lt;br&gt;《区块链应用测试》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Saep0hxBm3rdNTJurB6--5" value="软件维护&lt;br&gt;《区块链平台搭建与运维》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Saep0hxBm3rdNTJurB6--6" value="安全管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="80" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Saep0hxBm3rdNTJurB6--7" value="基础认知&lt;br&gt;《区块链导论》、《密码学》、《Golang程序设计》、《Linux操作系统》、《虚拟化及容器技术》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="390" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

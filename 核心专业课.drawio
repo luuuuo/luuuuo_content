@@ -1,25 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T02:08:42.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yMFBjUHB3ddPzz863mm4" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T02:21:21.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZXaugl3sYYejZSXubkHf" version="22.1.11" type="github">
   <diagram name="第 1 页" id="D1TzzIXAI3c-7DYu6P_8">
     <mxGraphModel dx="792" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Saep0hxBm3rdNTJurB6--10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.018867924528301886;" vertex="1" parent="1">
+          <mxGeometry x="256" y="175" width="530" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="Saep0hxBm3rdNTJurB6--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;概要设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Saep0hxBm3rdNTJurB6--2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;需求分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Saep0hxBm3rdNTJurB6--3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;编码与实现&lt;br&gt;&lt;/font&gt;&lt;div&gt;分布式系统与应用、&lt;span style=&quot;background-color: initial;&quot;&gt;区块链系统开发（底层）、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智能合约技术与开发、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DApp应用开发、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EOS应用开发、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;超级账本技术、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FISCO BCOS技术、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据挖掘与分析、数字藏品技术、区块链游戏开发技术&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Saep0hxBm3rdNTJurB6--3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;编码与实现&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#006600&quot;&gt;分布式系统与应用、&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;区块链系统开发（底层）、&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 102, 0); background-color: initial;&quot;&gt;智能合约技术与开发、&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 102, 0); background-color: initial;&quot;&gt;DApp应用开发、&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 102, 0); background-color: initial;&quot;&gt;EOS应用开发、&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 102, 0); background-color: initial;&quot;&gt;超级账本技术、&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 102, 0); background-color: initial;&quot;&gt;FISCO BCOS技术&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据挖掘与分析、数字藏品技术、区块链游戏开发技术&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Saep0hxBm3rdNTJurB6--4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;联调测试&lt;br&gt;&lt;/font&gt;区块链应用测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Saep0hxBm3rdNTJurB6--4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;联调测试&lt;br&gt;&lt;/font&gt;区块链应用测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="390" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Saep0hxBm3rdNTJurB6--5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;软件维护&lt;br&gt;&lt;/font&gt;区块链平台搭建与运维、虚拟化及容器技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Saep0hxBm3rdNTJurB6--5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;软件维护&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#006600&quot;&gt;区块链平台搭建与运维、虚拟化及容器技术&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Saep0hxBm3rdNTJurB6--6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;安全管理&lt;/font&gt;&lt;br&gt;区块链安全技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Saep0hxBm3rdNTJurB6--6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;安全管理&lt;/font&gt;&lt;br&gt;区块链安全技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="670" y="180" width="90" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Saep0hxBm3rdNTJurB6--7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基础认知&lt;/font&gt;&lt;br&gt;&lt;div&gt;区块链导论、&lt;span style=&quot;background-color: initial;&quot;&gt;数据库原理与应用、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;密码学、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Golang程序设计、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Java程序设计、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Python程序设计、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;WEB开发基础、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;操作系统及编程、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据结构与算法、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计算机网络、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数学类基础课程&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -28,10 +31,7 @@
         <mxCell id="Saep0hxBm3rdNTJurB6--8" value="以能从事具体行业的开发任务的能力建设为出发点，梳理核心专业课程应包括的内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="296" y="130" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Saep0hxBm3rdNTJurB6--10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.018867924528301886;" vertex="1" parent="1">
-          <mxGeometry x="256" y="175" width="530" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="Saep0hxBm3rdNTJurB6--11" value="区块链安全技术&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;区块链应用测试&lt;br&gt;数字藏品技术&lt;br&gt;区块链平台搭建与运维&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FISCO BCOS技术&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;智能合约技术与开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Saep0hxBm3rdNTJurB6--11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;核心基础课&lt;/font&gt;&lt;br&gt;区块链安全技术&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;区块链应用测试&lt;br&gt;数字藏品技术&lt;br&gt;区块链平台搭建与运维&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FISCO BCOS技术&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;智能合约技术与开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="800" y="240" width="130" height="200" as="geometry" />
         </mxCell>
       </root>

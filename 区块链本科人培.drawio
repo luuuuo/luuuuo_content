@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T08:36:42.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ajCRkwA7UBzPWy-K2Z4K" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T08:40:00.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h_gXQGUjlTEYypduT2qj" version="22.1.11" type="github">
   <diagram name="第 1 页" id="vJFw21bzTjTVhdT_yDeT">
     <mxGraphModel dx="2514" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="631" y="855" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-45" value="&lt;div&gt;区块链安全&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="631" y="877" width="109" height="58" as="geometry" />
+          <mxGeometry x="631" y="877" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-49" value="区块链工程技术人员、区块链应用操作员、顶岗实习" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-330" y="780" width="1070" height="20" as="geometry" />
@@ -149,25 +149,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-137" value="&lt;div&gt;区块链金融&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="631" y="937" width="109" height="58" as="geometry" />
+          <mxGeometry x="631" y="947" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-138" value="&lt;div&gt;区块链监管&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="631" y="995" width="109" height="58" as="geometry" />
+          <mxGeometry x="631" y="1017" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-139" value="&lt;div&gt;区块链与数字藏品&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="631" y="1055" width="109" height="58" as="geometry" />
+          <mxGeometry x="631" y="1089" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-140" value="&lt;div&gt;区块链游戏&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="629" y="1202" width="109" height="58" as="geometry" />
+          <mxGeometry x="629" y="1160" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-141" value="&lt;div&gt;区块链社交&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="629" y="1262" width="109" height="58" as="geometry" />
+          <mxGeometry x="629" y="1230" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-142" value="&lt;div&gt;区块链去中心化自治组织&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="629" y="1319" width="109" height="58" as="geometry" />
+          <mxGeometry x="629" y="1300" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="W4N1N9zn9b0fGI2UVzIe-143" value="&lt;div&gt;区块链与元宇宙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="629" y="1379" width="109" height="58" as="geometry" />
+          <mxGeometry x="629" y="1370" width="109" height="68" as="geometry" />
         </mxCell>
         <mxCell id="atn7iwoYlmSWLf445jFX-1" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-330" y="1012" width="960" height="220" as="geometry" />
